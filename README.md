@@ -1,5 +1,5 @@
 # googletest-circleci
-[![Circle CI](https://circleci.com/gh/tjun/googletest-circleci.svg?style=svg)](https://circleci.com/gh/tjun/googletest-circleci)
+[![Circle CI](https://circleci.com/gh/koalalib/googletest-circleci.svg?style=svg)](https://circleci.com/gh/koalalib/googletest-circleci)
 
 
 This repo shows how to test C++ code with googletest on Circle CI.
